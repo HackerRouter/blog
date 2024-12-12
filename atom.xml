@@ -6,7 +6,7 @@
   <link href="http://1last.vip/atom.xml" rel="self"/>
   
   <link href="http://1last.vip/"/>
-  <updated>2024-12-12T14:26:26.028Z</updated>
+  <updated>2024-12-12T14:34:47.581Z</updated>
   <id>http://1last.vip/</id>
   
   <author>
@@ -17,18 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>z3-explore</title>
+    <title>关于z3算法的探索</title>
     <link href="http://1last.vip/2024/12/12/z3-explore/"/>
     <id>http://1last.vip/2024/12/12/z3-explore/</id>
     <published>2024-12-12T14:23:55.000Z</published>
-    <updated>2024-12-12T14:26:26.028Z</updated>
+    <updated>2024-12-12T14:34:47.581Z</updated>
     
-    <content type="html"><![CDATA[<p>这篇文章中，我们将讨论z3算法，以及它的实现原理。同时在python中引用z3库预测随机数的产生。<br>先鸽着，明天写。</p>]]></content>
+    <content type="html"><![CDATA[<p>这篇文章中，我们将讨论z3算法，以及它的实现原理。同时在python中引用z3库预测随机数的产生。<br>想知道发生了什么？快点进来看看吧！</p><p>&lt;~–more–&gt;</p><p>先鸽着，明天写。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;这篇文章中，我们将讨论z3算法，以及它的实现原理。同时在python中引用z3库预测随机数的产生。&lt;br&gt;先鸽着，明天写。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;这篇文章中，我们将讨论z3算法，以及它的实现原理。同时在python中引用z3库预测随机数的产生。&lt;br&gt;想知道发生了什么？快点进来看看吧！&lt;/p&gt;
+&lt;p&gt;&amp;lt;~–more–&amp;gt;&lt;/p&gt;
+&lt;p&gt;先鸽着，明天写。&lt;/p&gt;
 </summary>
       
     
